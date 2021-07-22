@@ -1,2 +1,8 @@
 ECOMMERCEAPP/node_modules
 client/node_modules
+client/dist
+
+
+# local env files
+client/.env.local
+client/.env.*.local
